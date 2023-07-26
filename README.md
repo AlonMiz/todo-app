@@ -13,6 +13,7 @@ first make sure you are familiar with these technologies (read their docs)
 ## Prepare
 - install - `npm i`
 - to prepare the db - `npm run prisma push`
+- copy .env.example to .env and fill in the values
 
 ## Your task
 create a todo app with the following features
